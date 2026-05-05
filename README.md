@@ -11,7 +11,7 @@ This project demonstrates hosting a static website using Amazon S3.
 - Added bucket policy for public access
 
 ## 🌐 Live Demo
-http://gayatri-s3-site-001.s3-website-ap-south-1.amazonaws.com
+https://gayatri-s3-site-001.s3.ap-south-1.amazonaws.com/index.html+1.txt
 
 ## 🛠️ Tech Used
 - AWS S3
